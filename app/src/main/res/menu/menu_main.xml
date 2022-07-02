@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="jp.developer.bbee.pcassemblyapp.MainActivity">
+    <item
+        android:id="@+id/action_pccase"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_pccase"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_mother"
+        android:orderInCategory="101"
+        android:title="@string/menu_action_mother"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_psu"
+        android:orderInCategory="102"
+        android:title="@string/menu_action_psu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cpu"
+        android:orderInCategory="103"
+        android:title="@string/menu_action_cpu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_cooler"
+        android:orderInCategory="104"
+        android:title="@string/menu_action_cooler"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_memory"
+        android:orderInCategory="105"
+        android:title="@string/menu_action_memory"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_ssd"
+        android:orderInCategory="106"
+        android:title="@string/menu_action_ssd"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_hdd"
+        android:orderInCategory="107"
+        android:title="@string/menu_action_hdd"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_video"
+        android:orderInCategory="108"
+        android:title="@string/menu_action_video"
+        app:showAsAction="never" />
+</menu>

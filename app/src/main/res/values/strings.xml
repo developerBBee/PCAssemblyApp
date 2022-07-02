@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PCAssemblyApp</string>
+
+    <string name="menu_action_pccase">PCケース</string>
+    <string name="menu_action_mother">マザーボード</string>
+    <string name="menu_action_psu">電源</string>
+    <string name="menu_action_cpu">CPU</string>
+    <string name="menu_action_cooler">CPUクーラー</string>
+    <string name="menu_action_memory">メモリ</string>
+    <string name="menu_action_ssd">SSD</string>
+    <string name="menu_action_hdd">HDD</string>
+    <string name="menu_action_video">グラフィックボード</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_fragment_label">API Test</string>
+</resources>
